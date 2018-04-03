@@ -1,11 +1,14 @@
 # angularworld.ir
 [angularworld](http://angularworld.ir) is a community of angular in iran.
 
-# Linkedin
-[](https://www.linkedin.com/company/angularworld)
+## Linkedin
+[Go to the linkedin profile](https://www.linkedin.com/company/angularworld)
 
-# Github
-[](https://github.com/angularworld)
+## Github
+[Go to the github profile](https://github.com/angularworld)
 
-# Telegram
-[](https://t.me/angularworld)
+## Telegram Channel
+[Go to the telegram channel](https://t.me/angularworld)
+
+## Telegram FAQ Group
+[Go to the telegram faq group](https://t.me/joinchat/G_6o2lHiDdMF0x-NDlR8KA)
