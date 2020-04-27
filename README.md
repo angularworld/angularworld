@@ -1,5 +1,5 @@
 # angularworld.ir
-[angularworld](http://angularworld.ir) is a community of angular in iran.
+[angularworld](http://angularworld.ir) Enterprise software architecture focus on angular.
 
 ## Linkedin
 [Go to the linkedin profile](https://www.linkedin.com/company/angularworld)
